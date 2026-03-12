@@ -46,9 +46,9 @@ REPO = """
 if config.BOT_TOKEN:
     bot = Client(
         "MusicPlayer",
-        api_id=config.API_ID,
-        api_hash=config.API_HASH,
-        bot_token=config.BOT_TOKEN,
+        api_id=config.39498514,
+        api_hash=config.92db71e8f0b39dac859b7ee1c41edecd,
+        bot_token=config.8619079016:AAEHsPcI5zrBWP2g0LeNd5tXNvUuaQa-93I,
         in_memory=True,
     )
     client = bot
